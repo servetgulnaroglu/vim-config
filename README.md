@@ -1,7 +1,10 @@
 
 # Vim Configuration Guide
 
-This guide will walk you through installing Vim and configuring it with the provided \`.vimrc\` file. Instructions are provided for both macOS and Windows operating systems.
+This guide will walk you through installing Vim and configuring it with the provided \`.vimrc\` file. Instructions are provided for both macOS and Windows operating systems. 
+
+For a visual demonstration of all the shortcuts and functionalities, please refer to [this YouTube video](https://youtu.be/ptdMMuK1WPs).
+
 
 ## macOS Installation
 

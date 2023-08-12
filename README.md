@@ -12,7 +12,7 @@ brew install vim
 ```
 
 ### 2. Download the .vimrc file
-Clone the repository or download the \`.vimrc\` file from the [GitHub repository](https://github.com/your-username/your-repo).
+Clone the repository or download the \`.vimrc\` file from the [GitHub repository](https://github.com/servetgulnaroglu/vim-config/blob/main/.vimrc).
 
 ### 3. Copy the .vimrc file to your home directory
 In Terminal, navigate to the directory containing the downloaded \`.vimrc\` file and run:

@@ -7,18 +7,18 @@ This guide will walk you through installing Vim and configuring it with the prov
 
 ### 1. Install Vim
 You can install Vim on macOS using Homebrew. Open Terminal and run:
-\`\`\`bash
+```bash copy
 brew install vim
-\`\`\`
+```
 
 ### 2. Download the .vimrc file
 Clone the repository or download the \`.vimrc\` file from the [GitHub repository](https://github.com/your-username/your-repo).
 
 ### 3. Copy the .vimrc file to your home directory
 In Terminal, navigate to the directory containing the downloaded \`.vimrc\` file and run:
-\`\`\`bash
+```bash copy
 cp .vimrc ~/
-\`\`\`
+```
 
 ## Windows Installation
 

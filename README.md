@@ -26,7 +26,7 @@ cp .vimrc ~/
 You can download the Vim installer for Windows from the [official website](https://www.vim.org/download.php).
 
 ### 2. Download the .vimrc file
-Clone the repository or download the \`.vimrc\` file from the [GitHub repository](https://github.com/your-username/your-repo).
+Clone the repository or download the \`.vimrc\` file from the [GitHub repository](https://github.com/servetgulnaroglu/vim-config/blob/main/.vimrc).
 
 ### 3. Copy the .vimrc file to your home directory
 Copy the \`.vimrc\` file to your user home directory, usually located at \`C:\\Users\\YourUsername\`.
